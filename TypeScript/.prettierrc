@@ -7,7 +7,5 @@
   "jsxBracketSameLine": false,
   "arrowParens": "avoid",
   "proseWrap": "preserve",
-  "disableLanguages": [
-    "JavaScript"
-  ]
+  "disableLanguages": ["JavaScript"]
 }
